@@ -22,5 +22,4 @@ tgcrypto
 youtube-search
 youtube-search-python
 yt-dlp
-sudo apt-get update
-sudo apt-get install nodejs
+apt-get install nodejs
